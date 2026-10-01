@@ -3,5 +3,5 @@ package zingsandbox
 
 // Greet returns a greeting for name.
 func Greet(name string) string {
-	return "Hi, " + name
+	return "Hello, " + name + "!"
 }
